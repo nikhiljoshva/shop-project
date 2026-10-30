@@ -1,0 +1,8 @@
+{
+  "name": "ScreenCraft Studio",
+  "description": "Interactive multi-screen application with mobile viewport simulator, hotlinked asset galleries, and instant HTML screen importer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
